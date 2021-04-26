@@ -1,0 +1,28 @@
+{
+  "name": "capitalism",
+  "version": "6.0.2",
+  "description": "Here to alienate you",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "capitalism": "./index.js"
+  },
+  "keywords": [
+    "capitalism",
+    "alienation",
+    "jsconfeu",
+    "money",
+    "socialist",
+    "conspiracy",
+    "assigned",
+    "capitalist",
+    "at-birth",
+    "marx",
+    "was",
+    "right"
+  ],
+  "author": "Pavel <pavel_kuznetsov2020@mail.ru>",
+  "license": "ISC"
+}
